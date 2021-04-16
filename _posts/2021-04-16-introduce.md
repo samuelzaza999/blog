@@ -1,15 +1,9 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "자기소개서"
 date:   2021-04-16
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+excerpt: "2017108257 김승헌 자기소개서"
+tags: [jekyll, blog]
 comments: true
 ---
 
